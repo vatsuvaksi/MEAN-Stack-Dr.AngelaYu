@@ -1,0 +1,23 @@
+.middle{
+    background-color: red;
+    background: red;
+    height: 250px;
+    width:250px;
+
+}
+.bottom{
+    background-color:blue;
+    height: 250px;
+    background: blue;
+    width:250px;
+}
+.upper{
+    background:turquoise;
+    background-color: turquoise;
+    border: solid 10px;
+    
+}
+body{
+    text-align: center;
+    background :wheat;
+}

@@ -1,0 +1,10 @@
+body{
+    text-align : center;
+    background-color: grey
+}
+#main{
+    font-size: 5rem;;
+}
+.text{
+    color:aquamarine;
+}
